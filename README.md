@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/nova_logo.png" alt="NOVA logo" width="180">
+  <img src="assets/nova_logo.png" alt="NOVA logo" width="100%">
 </p>
 
 <h1 align="center">NOVA</h1>
